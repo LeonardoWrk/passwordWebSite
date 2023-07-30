@@ -2,7 +2,7 @@
 	<div class="text">
 		<h1>
 			tenha sua senha.
-			<strong> mais segura. </strong>
+			<strong> mais segura.. </strong>
 		</h1>
 	</div>
 </div>
